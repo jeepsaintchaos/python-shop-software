@@ -35,4 +35,6 @@ Changenotes for 1.2.0:
 Wow, we have come a long way. Now with f strings!
 Seriously, this is a major update. Im including a TimeTracker in order to better keep track of time.
 You will be able to write down your tasks and times and include it with the main invoice generated.
+If you select Use Timetracker File, it will automatically overwrite the project name, vin, make, model, and labor hours.
+You will still need to input diag hours.
 Have a great day!
